@@ -285,13 +285,14 @@ ul {
     width: 280px;
     border: none;
     padding: 13px 10px;
+    z-index: 1;
 }
 
 .sub-right a {
     position: relative;
     left: -4px;
     background-color: #72AEC8;
-    padding: 11px 40px;
+    padding: 13px 40px;
     color: white;
 }
 
