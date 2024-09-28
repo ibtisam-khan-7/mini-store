@@ -315,7 +315,7 @@ ul {
 
 .shop-imag img {
     width: 100%;
-    aspect-ratio: 2/2;
+    aspect-ratio: 1/1;
     object-fit: contain;
     /* mix-blend-mode: color-burn; */
 }
